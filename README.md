@@ -33,7 +33,7 @@ My long-term goal is to become a highly skilled engineer capable of building sca
 - Express.js
 - MongoDB
 - Python
-- AI-integrated applications
+- AI-powered software applications
 
 ---
 
