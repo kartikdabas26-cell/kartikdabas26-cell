@@ -1,10 +1,10 @@
 # Hi, I'm Kartik Dabas 👋
 
-## 🚀 Aspiring Software Engineer | ECE Student | Full Stack & DSA Journey
+## 🚀 ECE Student | Software Engineering, Full Stack Development & AI Exploration
 
-I’m an incoming ECE student from Delhi who is currently focused on building strong software engineering foundations through consistent coding, problem solving, and real-world projects.
+I’m an incoming ECE student from Delhi focused on building strong software engineering foundations through consistent coding, problem solving, and real-world projects.
 
-My long-term goal is to become a highly skilled software engineer with strong development, problem-solving, and AI integration skills.
+My long-term goal is to become a highly skilled engineer capable of building scalable software systems and AI-powered applications.
 
 ---
 
@@ -18,7 +18,7 @@ My long-term goal is to become a highly skilled software engineer with strong de
 
 ---
 
-# ⚙️ Tech Stack (Current + Planned)
+# ⚙️ Tech Stack
 
 ### Currently Learning
 - C++
@@ -27,7 +27,7 @@ My long-term goal is to become a highly skilled software engineer with strong de
 - CSS
 - JavaScript
 
-### Future Stack
+### Exploring Next
 - React
 - Node.js
 - Express.js
@@ -43,12 +43,11 @@ My long-term goal is to become a highly skilled software engineer with strong de
 - Build multiple real-world projects
 - Become internship-ready by the end of first year
 - Create a strong GitHub portfolio
-- Learn Full Stack Development properly
-- Stay consistent and improve every month
+- Develop consistency and strong engineering habits
 
 ---
 
-# 📚 Current Learning Resources
+# 📚 Current Learning Platforms
 
 - CS50x by Harvard University
 - The Odin Project
@@ -61,9 +60,9 @@ My long-term goal is to become a highly skilled software engineer with strong de
 # 🛠️ Upcoming Projects
 
 - Personal Portfolio Website
-- Weather App
-- Task Manager App
-- Full Stack Productivity App
+- Weather Application
+- Task Manager Application
+- Full Stack Productivity Application
 
 ---
 
@@ -77,9 +76,9 @@ My long-term goal is to become a highly skilled software engineer with strong de
 
 # 🌱 Philosophy
 
-> Focus on consistency over intensity.  
-> Build real skills.  
-> Learn deeply.  
+> Consistency compounds over time.  
+> Build deeply.  
+> Stay curious.  
 > Keep improving.
 
 ---
@@ -92,8 +91,8 @@ Delhi, India 🇮🇳
 
 # ⚡ Current Status
 
-Currently building strong foundations in:
-- Programming
-- DSA
+Currently focused on strengthening:
+- Programming Fundamentals
+- DSA & Problem Solving
 - Full Stack Development
-- Problem Solving
+- Software Engineering Foundations
