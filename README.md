@@ -1,98 +1,101 @@
 # Hi, I'm Kartik Dabas 👋
 
-## 🚀 ECE Student | Software Engineering, Full Stack Development & AI Exploration
+## 💻 CSE (Data Science) Student @ USICT | Aspiring Software Engineer | Building a SaaS Startup
 
-I’m an incoming ECE student from Delhi focused on building strong software engineering foundations through consistent coding, problem solving, and real-world projects.
+I'm a first-year Computer Science (Data Science) student at the University School of Information, Communication & Technology (USICT), GGSIPU.
 
-My long-term goal is to become a highly skilled engineer capable of building scalable software systems and AI-powered applications.
+I enjoy building software that solves real-world problems. My current mission is to become a strong software engineer by mastering computer science fundamentals, data structures & algorithms, and full-stack development while building products used by real businesses.
 
----
-
-# 🧠 Current Focus
-
-- Learning Computer Science fundamentals through CS50x
-- Building strong Data Structures & Algorithms foundations using C++
-- Learning Full Stack Web Development step-by-step
-- Improving problem-solving skills through daily coding practice
-- Building projects and documenting my growth publicly
+In the long run, I want to build scalable software systems, integrate AI into products, and grow my own technology startup.
 
 ---
 
-# ⚙️ Tech Stack
+## 🚀 What I'm Working On
 
-### Currently Learning
+📚 Mastering Data Structures & Algorithms using C++
+
+🌐 Learning Full Stack Development (MERN)
+
+💼 Building a SaaS platform for businesses
+
+🏆 Preparing for hackathons and coding contests
+
+📖 Strengthening Computer Science fundamentals
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
 - C++
-- Git & GitHub
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 
-### Exploring Next
+### Currently Learning
+
 - React
 - Node.js
 - Express.js
-- MongoDB
+- SQL
+- Git & GitHub
+
+### Learning Next
+
+- PostgreSQL
+- TypeScript
 - Python
-- AI-powered software applications
+- Cloud Computing
+- AI Engineering
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 Current Goals
 
-- Solve 250+ DSA problems
-- Build multiple real-world projects
-- Become internship-ready by the end of first year
-- Create a strong GitHub portfolio
-- Develop consistency and strong engineering habits
+- 🚀 Launch Version 1 of my SaaS startup
+- 💻 Solve 250+ DSA problems
+- 🏆 Participate in hackathons
+- 🌱 Build projects with real users
+- 📂 Create a professional GitHub portfolio
+- 💼 Become internship-ready by the end of my first year
 
 ---
 
-# 📚 Current Learning Platforms
+## 📂 Current Projects
 
-- CS50x by Harvard University
-- The Odin Project
+🚧 Portfolio Website
+
+🚧 Business SaaS Platform (In Development)
+
+🚧 DSA Journey Repository
+
+More projects coming soon...
+
+---
+
+## 📈 Coding Profiles
+
 - LeetCode
-- HackerRank
-- freeCodeCamp
+- Codeforces
+- CodeChef
+- LinkedIn
+
+*(Links will be added as I continue building.)*
 
 ---
 
-# 🛠️ Upcoming Projects
+## 🌱 Currently Improving
 
-- Personal Portfolio Website
-- Weather Application
-- Task Manager Application
-- Full Stack Productivity Application
-
----
-
-# 📈 Coding Profiles
-
-- LeetCode: (Add Link)
-- HackerRank: (Add Link)
-- LinkedIn: (Add Link)
+- Software Engineering
+- Backend Development
+- Problem Solving
+- System Design Fundamentals
+- Clean Code
+- Product Development
 
 ---
 
-# 🌱 Philosophy
+## 📍 Delhi, India 🇮🇳
 
-> Consistency compounds over time.  
-> Build deeply.  
-> Stay curious.  
-> Keep improving.
-
----
-
-# 📍 Location
-
-Delhi, India 🇮🇳
-
----
-
-# ⚡ Current Status
-
-Currently focused on strengthening:
-- Programming Fundamentals
-- DSA & Problem Solving
-- Full Stack Development
-- Software Engineering Foundations
+> *"Build useful products. Learn continuously. Stay consistent."*
