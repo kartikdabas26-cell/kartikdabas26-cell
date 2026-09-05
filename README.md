@@ -11,7 +11,7 @@ Currently learning by building projects, participating in hackathons, and streng
 ## 🚀 What I'm Working On
 
 * 🛡️ **SafeRoute** — Intelligent safety-aware navigation & mapping
-* 🛒 **Nexora** — Two-sided marketplace platform
+* 🛒 **Class flow** — A classroom management workplace
 * 🤖 Exploring **AI / Machine Learning / Data Science**
 * 💻 Building strong foundations in **DSA & Software Engineering**
 * 🏆 Participating in **Hackathons & real-world problem solving**
@@ -86,19 +86,13 @@ A full-stack marketplace designed around separate buyer and seller workflows, au
 
 ---
 
-## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
-
----
 
 ## 🤝 Connect
 
-💼 LinkedIn — YOUR_LINKEDIN
+💼 LinkedIn — https://www.linkedin.com/in/kartik-dabas-198730406/
 🌐 Portfolio — Coming Soon
-📧 Email — YOUR_EMAIL
+📧 Email — kartikdabas26@gmail.com
 
 ---
 
