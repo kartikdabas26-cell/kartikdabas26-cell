@@ -1,101 +1,107 @@
-# Hi, I'm Kartik Dabas 👋
+# Hey, I'm Kartik 👋
 
-## 💻 CSE (Data Science) Student @ USICT | Aspiring Software Engineer | Building a SaaS Startup
+### CSE / Data Science Student @ USICT | 2026–2030
 
-I'm a first-year Computer Science (Data Science) student at the University School of Information, Communication & Technology (USICT), GGSIPU.
+I'm a Computer Science student at the **University School of Information, Communication & Technology (USICT), GGSIPU**, interested in building practical software and exploring **AI, Data Science and intelligent systems**.
 
-I enjoy building software that solves real-world problems. My current mission is to become a strong software engineer by mastering computer science fundamentals, data structures & algorithms, and full-stack development while building products used by real businesses.
-
-In the long run, I want to build scalable software systems, integrate AI into products, and grow my own technology startup.
+Currently learning by building projects, participating in hackathons, and strengthening my foundations in **DSA, Full-Stack Development and AI/ML**.
 
 ---
 
 ## 🚀 What I'm Working On
 
-📚 Mastering Data Structures & Algorithms using C++
-
-🌐 Learning Full Stack Development (MERN)
-
-💼 Building a SaaS platform for businesses
-
-🏆 Preparing for hackathons and coding contests
-
-📖 Strengthening Computer Science fundamentals
+* 🛡️ **SafeRoute** — Intelligent safety-aware navigation & mapping
+* 🛒 **Nexora** — Two-sided marketplace platform
+* 🤖 Exploring **AI / Machine Learning / Data Science**
+* 💻 Building strong foundations in **DSA & Software Engineering**
+* 🏆 Participating in **Hackathons & real-world problem solving**
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Stack
 
-### Languages
+**Languages:**
+C++ · Python · JavaScript · HTML · CSS
 
-- C++
-- JavaScript
-- HTML
-- CSS
+**Frontend:**
+React · Vite · Tailwind CSS
 
-### Currently Learning
+**Backend:**
+Node.js · Express.js · REST APIs
 
-- React
-- Node.js
-- Express.js
-- SQL
-- Git & GitHub
+**Database / Cloud:**
+Firebase · Firestore · PostgreSQL
 
-### Learning Next
+**AI / Data:**
+Python · Machine Learning · Data Analysis · Computer Vision
 
-- PostgreSQL
-- TypeScript
-- Python
-- Cloud Computing
-- AI Engineering
+**Tools:**
+Git · GitHub · VS Code · Postman · Figma
 
 ---
 
-## 🎯 Current Goals
+## ⭐ Featured Projects
 
-- 🚀 Launch Version 1 of my SaaS startup
-- 💻 Solve 250+ DSA problems
-- 🏆 Participate in hackathons
-- 🌱 Build projects with real users
-- 📂 Create a professional GitHub portfolio
-- 💼 Become internship-ready by the end of my first year
+### 🛡️ SafeRoute
 
----
+**Intelligent Safety-Aware Navigation**
 
-## 📂 Current Projects
+A safety-focused mapping platform that combines geospatial information, public infrastructure, community reports and contextual factors to help users make more informed route decisions.
 
-🚧 Portfolio Website
-
-🚧 Business SaaS Platform (In Development)
-
-🚧 DSA Journey Repository
-
-More projects coming soon...
+**Tech:** React · Maps · Firebase · AI/ML
 
 ---
 
-## 📈 Coding Profiles
+### 🛒 Nexora
 
-- LeetCode
-- Codeforces
-- CodeChef
-- LinkedIn
+**Two-Sided Marketplace Platform**
 
-*(Links will be added as I continue building.)*
+A full-stack marketplace designed around separate buyer and seller workflows, authentication, listings and scalable backend services.
 
----
-
-## 🌱 Currently Improving
-
-- Software Engineering
-- Backend Development
-- Problem Solving
-- System Design Fundamentals
-- Clean Code
-- Product Development
+**Tech:** React · Firebase · Firestore · Authentication
 
 ---
 
-## 📍 Delhi, India 🇮🇳
+## 📚 Currently Learning
 
-> *"Build useful products. Learn continuously. Stay consistent."*
+* Data Structures & Algorithms with **C++**
+* Full-Stack Web Development
+* Python for AI / ML
+* Data Science
+* System Design
+* Cybersecurity fundamentals
+
+---
+
+## 🎯 2026–2030 Goals
+
+* Build production-quality software
+* Become strong in DSA
+* Build meaningful AI/ML projects
+* Participate in national-level hackathons
+* Contribute to open source
+* Build and deploy real-world products
+* Secure strong software/AI internships
+* Continuously improve as an engineer
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+## 🤝 Connect
+
+💼 LinkedIn — YOUR_LINKEDIN
+🌐 Portfolio — Coming Soon
+📧 Email — YOUR_EMAIL
+
+---
+
+### 💡 Build. Break. Learn. Repeat.
+
+> **Turning ideas into software, one project at a time.**
